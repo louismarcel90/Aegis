@@ -1,4 +1,4 @@
-# Aegis — _Identity & Access Graph Intelligence_
+# Aegis — _Identity Graph & Access Authorization Engine_
 
 ## 🧰 Technologies Used in Practice
 
