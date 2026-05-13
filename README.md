@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 What is Zycron / Why It Exists
+## 🧠 What is Aegis / Why It Exists
 
 ## ⚡ Real World Scenario
 
