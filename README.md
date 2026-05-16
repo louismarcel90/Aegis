@@ -19,7 +19,7 @@
 </p>
 
 
-> Design Discussion ongoing (done) --- final requirements ongoing (done) --- start soon
+> Trust is never assumed. Every identity, relationship, and access path is continuously verified and provably enforced.
 
 ![node](https://img.shields.io/badge/node-%3E%3D18-green)
 ![license](https://img.shields.io/badge/license-MIT-blue)
